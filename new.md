@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-###this ia a test
+##Header-1
 
-"*line 1"
-
-*"line 2"
+Line-1
+Line-2
 
 
 =======
-##this is new
+##Header-2
 
-*line 1
+Line-1
 
-*line 2
->>>>>>> dfffb194d627894c039bf679b7a20949dd99f7e7
+Line-2
